@@ -1,20 +1,19 @@
-Heading
-=======
+#Android Cliffnotes
 
-SubHeading
-----------
+We have Android guides for everyone whether you are a beginner, intermediate or expert. Want to learn how to use the ActionBar or the ins and outs of fragments? We got that. Want to learn about automated integration testing or how to build flexible user interfaces for multiple devices? We got you covered. We don't waste time with the "theoretical approach" you might get from a book. We cover exactly the things we use every day as we are developing apps for contracts.
 
-  * list item 1
-  * list item 2
+##Getting Started
 
-  This is a hyperlink to [Baidu](http://www.baidu.com).
+##Structure
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
-  
-  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+##Views and Layouts
+
+##Designing and Styling Views
+
+##AdapterViews
+
+##Persistence
+
+Exploring the strategies for data persistence:
+
+*[ActiveAndroid ORM References](/ActiveAndroid-Guide.md)
