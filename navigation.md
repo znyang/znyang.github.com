@@ -1,4 +1,4 @@
-# Znyang Android Guide
+#Android Guide
 
 [Home](index.md)
 [About](about.md)
