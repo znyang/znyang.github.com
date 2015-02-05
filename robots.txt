@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://znyang.github.io/sitemap.xml 
