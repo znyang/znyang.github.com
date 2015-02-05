@@ -1,6 +1,6 @@
-#Android Cliffnotes
+#Android 开发指南
 
-We have Android guides for everyone whether you are a beginner, intermediate or expert. Want to learn how to use the ActionBar or the ins and outs of fragments? We got that. Want to learn about automated integration testing or how to build flexible user interfaces for multiple devices? We got you covered. We don't waste time with the "theoretical approach" you might get from a book. We cover exactly the things we use every day as we are developing apps for contracts.
+我们的Android的开发指南，不管你是初学者，中级或专家。想了解如何使用Fragment？想了解自动化集成测试或如何构建自适应的用户界面？都会在这里得到答案。
 
 ##Getting Started
 
@@ -16,4 +16,4 @@ We have Android guides for everyone whether you are a beginner, intermediate or 
 
 Exploring the strategies for data persistence:
 
-*[ActiveAndroid ORM References](/ActiveAndroid-Guide.md)
+* [ActiveAndroid ORM References](/ActiveAndroid-Guide.md)
