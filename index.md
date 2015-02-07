@@ -1,5 +1,5 @@
 #Android 开发指南
 
-##Views and Layouts
+##视图与布局
 
-* [Constructing View Layouts](Constructing-View-Layouts.md)
+* [创建视图与布局](Constructing-View-Layouts.md)
